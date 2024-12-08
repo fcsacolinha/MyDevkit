@@ -18,4 +18,6 @@ This repository is intended for personal use only. Contributions or external usa
 
 ## License
 
+MIT License
+
 This project is not licensed for public use. All rights reserved.
